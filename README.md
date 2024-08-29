@@ -18,3 +18,7 @@ To clone the repository use the `git clone` command.
 After cloning the repository `cd` into the project folder.  
 Run the command `flutter pub get` to install all the dependencies of the project.  
 Run the command `flutter run` to run the application.
+
+# Demo Video
+
+https://github.com/user-attachments/assets/dc2708cb-d5fb-4527-b3d3-de33c091852c
